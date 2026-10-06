@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Reinaldo and Simone//Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:reinaldo-simone-wedding-20270227
+DTSTAMP:20261006T150000Z
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:Reinaldo & Simone's Wedding
+DESCRIPTION:WEDDING MASS\nSt. Peter's Church\, Melaka\nTime: 10:00 AM\nKindly be seated by 9:50 AM\nhttps://maps.app.goo.gl/oR9gefYwfyyHCaL56\n\nWEDDING DINNER\nHoliday Inn Melaka\nTime: 7:00 PM\nhttps://maps.app.goo.gl/8h49YWpERzAPtLMT6
+LOCATION:Melaka\, Malaysia
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
